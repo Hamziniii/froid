@@ -12,3 +12,8 @@ some sort of project over winter break!
 - math
   - do something with 3b1b's library
   - conway's game of life 
+
+- Using API
+  - Create program that gives details about scheduled departures arrivals/departures for something like planes/trains/buses
+    - Could take commands like Action(Departures/Arrivals)/Company(Ex: United Airlines)/Date(Ex: Today/Yesterday/09-13-20) and other parameters
+    - Displays output in appropriate fashion
