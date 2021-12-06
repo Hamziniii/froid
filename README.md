@@ -17,3 +17,4 @@ some sort of project over winter break!
   - Create program that gives details about scheduled departures arrivals/departures for something like planes/trains/buses
     - Could take commands like Action(Departures/Arrivals)/Company(Ex: United Airlines)/Date(Ex: Today/Yesterday/09-13-20) and other parameters
     - Displays output in appropriate fashion
+  - Lots of free API's out there that we can use as well: https://rapidapi.com/collection/list-of-free-apis
